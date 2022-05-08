@@ -1,0 +1,5 @@
+- 👋 Hi, I’m anubhav pareek
+- 👀 I’m interested in JS/Java
+- 🌱 I’m currently learning React/Adv java
+- 💞️ I’m looking to collaborate for website development (frontend) and java projects
+- 📫 How to reach me anubhavpareek3@gmail.com
